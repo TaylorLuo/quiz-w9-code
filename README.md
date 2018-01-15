@@ -7,3 +7,5 @@
 
 tinymind模型地址：https://www.tinymind.com/luoweile/my-quiz-w9-fcn
       数据集地址：https://www.tinymind.com/luoweile/datasets/w9-segmantic
+
+结果图片请查看附件
