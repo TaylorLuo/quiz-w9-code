@@ -1,0 +1,6 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea
+__pycache__
+fcn_val.record
+fcn_train.record
+vgg_16.ckpt
